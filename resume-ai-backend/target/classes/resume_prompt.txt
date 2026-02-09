@@ -1,0 +1,89 @@
+Generate a JSON object that follows the exact schema below using the description provided.
+
+RULES:
+1. Use only the exact key names and structure shown in the schema — do not change them.
+2. Fill all string values based on the user description. If any value is missing, use an empty string "" or null (where noted).
+3. Lists must always be valid JSON arrays (e.g., ["Java", "Python"]) — even if they contain only one value.
+4. Do not include any explanation, formatting, or extra text — only return a valid JSON object.
+5. Use null for fields marked as "string or null" if no information is provided.
+6. Dates should be in the format "YYYY" or "YYYY-MM" when known.
+7. Return the response in JSON Format inside a <data>...</data> block
+8. Ensure all strings are on a single line or use "\n" for line breaks. Do not output raw line breaks inside string values.
+
+INPUT: "{{{userDescription}}}"
+
+<data>
+Schema:
+{ 
+  "personalInformation": {
+    "fullName": "string",
+    "email": "string",
+    "phoneNumber": "string",
+    "location": "string",
+    "linkedIn": "string",
+    "gitHub": "string or null",
+    "portfolio": "string or null",
+    "summary": "string"
+  },
+  "skills": {
+    "programmingLanguages": ["string"],
+    "frameworks": ["string"],
+    "database": ["string"],
+    "cloud": ["string"],
+    "devOpsTools": ["string"],
+    "otherSkills": ["string"]
+  },
+  "experience": [
+    {
+      "jobTitle": "string",
+      "company": "string",
+      "location": "string",
+      "duration": "string",
+      "responsibilities": ["string"]
+    }
+  ],
+  "education": [
+    {
+      "degree": "string",
+      "university": "string",
+      "location": "string",
+      "graduationYear": "string"
+    }
+  ],
+  "certifications": [
+    {
+      "title": "string",
+      "issuingOrganization": "string",
+      "year": "string"
+    }
+  ],
+  "projects": [
+    {
+      "title": "string",
+      "description": "string",
+      "technologiesUsed": ["string"],
+      "githubLink": "string or null"
+    }
+  ],
+  "achievements": [
+    {
+      "title": "string",
+      "description": "string",
+      "date": "string or null"
+    }
+  ],
+  "languages": [
+    {
+      "name": "string",
+      "proficiency": "string"
+    }
+  ],
+  "interests": [
+    {
+      "name": "string",
+      "description": "string"
+    }
+  ]
+}
+</data>
+return the response in JSON object only. only valid json object is allowed.
