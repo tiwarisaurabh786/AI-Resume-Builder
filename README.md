@@ -141,7 +141,7 @@ This project highlights **backend engineering strength, AI integration, schema v
 
 <a id="project-structure"></a>
 ## 📂 Project Structure
-
+```text
 AI-Resume-Builder/
 │
 ├── backend/
@@ -162,7 +162,7 @@ AI-Resume-Builder/
 │
 ├── README.md
 └── pom.xml
-
+```
 
 ---
 
