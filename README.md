@@ -187,23 +187,30 @@ npm start
 
 4️⃣ Open in Browser
 http://localhost:3000
-<a id="future-enhancements"></a>
 ```
+---
 
-🔮 Future Enhancements
+<a id="future-enhancements"></a>
+## 🔮 Future Enhancements
 
-🚀 Resume-to-Job-Description matching
-🚀 Cover letter generation
-🚀 Resume scoring engine
-🚀 User authentication & resume history
-🚀 Cloud deployment (AWS)
+- 🚀 Resume-to-Job-Description matching  
+- ✉️ AI-powered cover letter generation  
+- 📊 Resume scoring & ATS compatibility analysis  
+- 🔐 User authentication & resume history  
+- ☁️ Cloud deployment (AWS)
+
+---
 
 <a id="author"></a>
+## 👤 Author
 
-👤 Author
+<div align="center">
 
-Saurabh Tiwari
-Java Full-Stack Developer | Backend | Cloud
-📧 Email: tiwarisoravvka@gmail.com
-🔗 GitHub: https://github.com/tiwarisaurabh786
-🔗 LeetCode: https://leetcode.com/u/SaurabhGates/
+### **Saurabh Tiwari**  
+**Java Full-Stack Developer | Backend | Cloud**
+
+📧 **Email:** tiwarisoravvka@gmail.com  
+🔗 **GitHub:** https://github.com/tiwarisaurabh786  
+🔗 **LeetCode:** https://leetcode.com/u/SaurabhGates/
+
+</div>
