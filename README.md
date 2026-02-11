@@ -1,18 +1,34 @@
 <div align="center">
 
-# 🤖 AI Resume Builder  
-### ATS-Optimized Resume Generator | Full-Stack AI Application
+<!-- Typing Hero Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=38&pause=700&color=6366F1&center=true&vCenter=true&width=1000&lines=AI+Resume+Builder;ATS-Optimized+Resume+Generator;Full-Stack+AI+Application;Recruiter-Ready+Resumes+in+Seconds" />
 
-Build professional, recruiter-ready resumes from simple prompts using AI, with strict schema validation, real-time editing, and automated PDF export.
+<br/><br/>
 
-🔗 **GitHub Repository**  
-👉 https://github.com/tiwarisaurabh786/AI-Resume-Builder  
+<h1>🤖 AI Resume Builder</h1>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![AI](https://img.shields.io/badge/AI-LLM-blueviolet?style=for-the-badge)
-![ATS](https://img.shields.io/badge/ATS-Friendly-success?style=for-the-badge)
+<h3>ATS-Optimized Resume Generator | Full-Stack AI Application</h3>
+
+<p>
+Build <b>professional, recruiter-ready resumes</b> from simple prompts using AI.<br/>
+Designed with <b>strict schema validation</b>, <b>real-time editing</b>, and<br/>
+<b>automated PDF export</b> to meet modern ATS standards.
+</p>
+
+<br/>
+
+<!-- Value Badges -->
+<p>
+  <img src="https://img.shields.io/badge/ATS-Optimized-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI-Powered-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Real--Time-Editing-important?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PDF-Export-8B5CF6?style=for-the-badge"/>
+</p>
+
+<br/>
+
+<!-- Subtle Hero Divider -->
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="420"/>
 
 </div>
 
